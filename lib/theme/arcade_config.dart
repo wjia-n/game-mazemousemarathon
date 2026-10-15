@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'mazemousemarathonicecream',
   tip2Id: 'mazemousemarathontaco',
-  tip1Label: '💛 Buy me an ice cream',
-  tip2Label: '💛 Buy me a taco',
+  tip1Label: '💛 Maze Mouse Marathon ice cream',
+  tip2Label: '💛 Maze Mouse Marathon taco',
 );
